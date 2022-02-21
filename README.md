@@ -7,11 +7,11 @@ Perform clustering (hierarchical,K means clustering and DBSCAN) for the airlines
 
 Data Description:
 
-The file EastWestAirlinescontains information on passengers who belong to an airline’s frequent flier program.
+1.The file EastWestAirlinescontains information on passengers who belong to an airline’s frequent flier program.
 
-For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year.
+2.For each passenger the data include information on their mileage history and on different ways they accrued or spent miles in the last year.
 
-The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers
+3.The goal is to try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers
 
 ID --Unique ID
 
@@ -40,10 +40,10 @@ Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identif
 
 Data Description:
 
-Murder:- Murder rates in different places of United States
+1.Murder:- Murder rates in different places of United States
 
-Assualt:- Assualt rate in different places of United States
+2.Assualt:- Assualt rate in different places of United States
 
-UrbanPopulation - urban population in different places of United States
+3.UrbanPopulation - urban population in different places of United States
 
-Rape - Rape rate in different places of United States
+4.Rape - Rape rate in different places of United States
